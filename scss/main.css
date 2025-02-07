@@ -127,8 +127,9 @@ a {
 }
 
 .start {
-  background-image: url(/image/start-screen-background.svg);
-  background-image: url(/image/start-screen-gradient-background.svg);
+  background: rgb(81, 61, 47);
+  background: linear-gradient(150deg, rgb(81, 61, 47) 0%, rgb(26, 26, 28) 100%);
+  background-image: url(/img/footer-gradient-background.svg);
 }
 
 header {
