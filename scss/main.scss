@@ -135,7 +135,7 @@ a {
 .start {
     background: rgb(81, 61, 47);
     background: linear-gradient(150deg, rgba(81, 61, 47, 1) 0%, rgba(26, 26, 28, 1) 100%);
-    background-image: url(../img/footer-gradient-background.svg);
+    background-image: url(./img/footer-gradient-background.svg);
 }
 
 header {
@@ -524,7 +524,7 @@ footer {
     align-items: flex-end;
     background: rgb(81, 61, 47);
     background: linear-gradient(90deg, rgba(81, 61, 47, 1) 0%, rgba(26, 26, 28, 1) 100%);
-    background-image: url(../img/footer-gradient-background.svg);
+    background-image: url(./img/footer-gradient-background.svg);
 
     & .footer-content {
         display: flex;
