@@ -429,7 +429,6 @@ main {
                 justify-content: space-between;
                 height: 113px;
 
-
                 & p {
                     font-family: Georgia, 'Times New Roman', Times, serif;
                     font-size: 20px;
@@ -473,7 +472,6 @@ main {
             flex-direction: column;
             justify-content: space-between;
 
-
             & h2 {
                 font-size: 35px;
                 line-height: 130%;
@@ -495,7 +493,6 @@ main {
                 padding: 10px 15px;
                 border-radius: 9px;
                 background-color: #F1CDB3;
-
 
 
                 & p {
@@ -564,7 +561,6 @@ footer {
                 }
             }
 
-
         }
 
         & .footer-puppy {
@@ -577,11 +573,5 @@ footer {
                 width: 100%;
             }
         }
-
-
     }
-
-    // & .footer-content:last-child {
-    //     align-items: flex-end;
-    // }
 }
