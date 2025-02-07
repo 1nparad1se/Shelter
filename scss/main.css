@@ -446,7 +446,7 @@ footer {
   align-items: flex-end;
   background: rgb(81, 61, 47);
   background: linear-gradient(90deg, rgb(81, 61, 47) 0%, rgb(26, 26, 28) 100%);
-  background-image: url(/image/footer-gradient-background.svg);
+  background-image: url(/img/footer-gradient-background.svg);
 }
 footer .footer-content {
   display: flex;
